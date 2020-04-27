@@ -1,3 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+A simple Tetris game created using React. The motivation was to be familiar with the basics of React.
+Link : https://shrouded-fjord-27725.herokuapp.com/
 
 
